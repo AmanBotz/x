@@ -1,0 +1,2 @@
+python-telegram-bot==13.7
+beautifulsoup4==4.9.13
